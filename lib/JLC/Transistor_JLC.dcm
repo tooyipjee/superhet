@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BFR193WH6327
+D NPN BJT, 580mW,12V
+K audio npn dual
+$ENDCMP
+#
+$CMP MMBT5401
+D PNP BJT, 300mW, 150V
+K pnp
+$ENDCMP
+#
+#End Doc Library

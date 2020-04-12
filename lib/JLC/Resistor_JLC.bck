@@ -1,0 +1,63 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 100_0805
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 100k
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 10k
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 1M
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 1k
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 1k_0805
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 22k
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 4.7k
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 4.7k_0805
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+#End Doc Library
