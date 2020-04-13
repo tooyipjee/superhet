@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N4148WS
+D SWITCHING DIODE 100V 150MA 1.25V @ 150MA 4NS SOD-323 ROHS
+K diode
+F ~
+$ENDCMP
+#
+#End Doc Library

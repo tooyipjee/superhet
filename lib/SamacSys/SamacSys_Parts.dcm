@@ -1,0 +1,56 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 43650-0825
+D MOLEX - 43650-0825 - CONNECTOR, HEADER, 8POS, 1ROW, 3MM
+F https://www.molex.com/pdm_docs/sd/436500625_sd.pdf
+$ENDCMP
+#
+$CMP ADS1247IPW
+D 24-Bit, 2kSPS, 4-Ch Delta-Sigma ADC With PGA, Vref and 2x IDACs for Precision Sensor Measurement
+$ENDCMP
+#
+$CMP MPMT10019001AT1
+D Resistor Networks & Arrays 1K/9K .1%ABS .05%RATIO
+F https://componentsearchengine.com/Datasheets/1/MPMT10019001AT1.pdf
+$ENDCMP
+#
+$CMP NE555DR
+D Single Precision Timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP TPS7A4901DGNR
+D Vin 3V to 36V, 150mA, Ultra-Low-Noise, High-PSRR Low-Dropout (LDO) Linear Regulator
+F http://www.ti.com/lit/ds/sbvs121b/sbvs121b.pdf
+$ENDCMP
+#
+$CMP TS5A22362DGSR
+D Texas Instruments TS5A22362DGSR, Analogue Switch Dual SPDT, 2.3  5.5 V, 10-Pin VSSOP
+F http://componentsearchengine.com/Datasheets/3/TS5A22362DGSR.pdf
+$ENDCMP
+#
+$CMP 43650-0200
+D Header 3.00mm, WTB single row, RA, 2w Molex MICRO-FIT 3.0 Series, Series Number 43650, 3mm Pitch 2 Way 1 Row Shrouded Right Angle PCB Header, Through Hole
+K
+F https://componentsearchengine.com/Datasheets/1/43650-0200.pdf
+$ENDCMP
+#
+$CMP 43650-0500
+D Molex MICRO-FIT 3.0 Series, Series Number 43650, 3mm Pitch 5 Way 1 Row Right Angle PCB Header, Solder Termination, 5A
+K
+F https://componentsearchengine.com/Datasheets/1/43650-0500.pdf
+$ENDCMP
+#
+$CMP 43650-0300
+D MICRO-FIT (3.0) SINGLE ROW/RIGHT ANGLE THRU HOLD/PEGS/TRAY
+K
+F https://componentsearchengine.com/Datasheets/1/43650-0300.pdf
+$ENDCMP
+#
+$CMP 43045-0600
+D 6 way dual row r/a header,5A 250Vac 3mm Molex MICRO-FIT 3.0 Series, Series Number 43045, 3mm Pitch 6 Way 2 Row Right Angle PCB Header, Solder Termination, 5A
+K
+F https://componentsearchengine.com/Datasheets/1/43045-0600.pdf
+$ENDCMP
+#
+#End Doc Library

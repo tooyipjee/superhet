@@ -42,6 +42,12 @@ K R res resistor
 F ~
 $ENDCMP
 #
+$CMP 220
+D CHIP RESISTOR - SURFACE MOUNT 220OHMS ±1% 1/16W 0402 ROHS
+K R res resistor
+F ~
+$ENDCMP
+#
 $CMP 22k
 D Resistor
 K R res resistor
