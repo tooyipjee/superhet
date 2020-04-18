@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8871DDAR
+D 3.6A Brushed DC Motor Driver with Integrated Current Sensing (PWM Ctrl)
+F http://www.ti.com/lit/gpn/drv8871
+$ENDCMP
+#
+$CMP LM1117MPX-3.3_NOPB
+D Space saving 800-mA low-dropout linear regulator with internal current limit
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP LM1117MPX-5.0_NOPB
+D Space saving 800-mA low-dropout linear regulator with internal current limit
+F http://www.ti.com/lit/gpn/lm1117
+$ENDCMP
+#
+#End Doc Library

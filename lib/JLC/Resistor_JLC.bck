@@ -24,6 +24,12 @@ K R res resistor
 F ~
 $ENDCMP
 #
+$CMP 18k_HP
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
 $CMP 1M
 D Resistor
 K R res resistor
@@ -49,6 +55,12 @@ F ~
 $ENDCMP
 #
 $CMP 22k
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 300_0805
 D Resistor
 K R res resistor
 F ~

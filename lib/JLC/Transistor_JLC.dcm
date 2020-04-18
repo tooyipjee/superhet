@@ -17,6 +17,11 @@ K transistor PMOS P-MOS P-MOSFET
 F ~
 $ENDCMP
 #
+$CMP BSS138LT1G
+D MOSFET N-Channel 50V 0.2A SOT23 ON Semiconductor BSS138LT1G N-channel MOSFET Transistor, 0.2 A, 50 V, 3-Pin SOT-23
+F https://componentsearchengine.com/Datasheets/1/BSS138LT1G.pdf
+$ENDCMP
+#
 $CMP IRF5305STRLPBF
 D MOSFET P TRENCH 55V 31A 4V @ 250UA 60 M? @ 16A,10V TO-263-2 ROHS
 K transistor PMOS P-MOS P-MOSFET

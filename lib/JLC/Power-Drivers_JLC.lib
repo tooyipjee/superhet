@@ -1,0 +1,78 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# DRV8871DDAR
+#
+DEF DRV8871DDAR IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "DRV8871DDAR" 1050 200 50 H V L CNN
+F2 "SOIC127P600X170-9N" 1050 100 50 H I L CNN
+F3 "" 1050 0 50 H I L CNN
+F4 "3.6A Brushed DC Motor Driver with Integrated Current Sensing (PWM Ctrl)" 1050 -100 50 H I L CNN "Description"
+F5 "1.7" 1050 -200 50 H I L CNN "Height"
+F6 "595-DRV8871DDAR" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=595-DRV8871DDAR" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "DRV8871DDAR" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+F10 "C75864" 0 0 50 H I C CNN "LCSC"
+DRAW
+P 5 0 1 6 200 100 1000 100 1000 -600 200 -600 200 100 N
+X GND 1 0 0 200 R 50 50 0 0 U
+X IN2 2 0 -100 200 R 50 50 0 0 U
+X IN1 3 0 -200 200 R 50 50 0 0 U
+X ILIM 4 0 -300 200 R 50 50 0 0 U
+X VM 5 1200 -300 200 L 50 50 0 0 U
+X OUT1 6 1200 -200 200 L 50 50 0 0 U
+X PGND 7 1200 -100 200 L 50 50 0 0 U
+X OUT2 8 1200 0 200 L 50 50 0 0 U
+X EP 9 600 -800 200 U 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+# LM1117MPX-3.3_NOPB
+#
+DEF LM1117MPX-3.3_NOPB IC 0 30 Y Y 1 F N
+F0 "IC" 1150 300 50 H V L CNN
+F1 "LM1117MPX-3.3_NOPB" 1150 200 50 H V L CNN
+F2 "SOT230P700X180-4N" 1150 100 50 H I L CNN
+F3 "" 1150 0 50 H I L CNN
+F4 "Space saving 800-mA low-dropout linear regulator with internal current limit" 1150 -100 50 H I L CNN "Description"
+F5 "1.8" 1150 -200 50 H I L CNN "Height"
+F6 "926-LM1117MPX3.3NOPB" 1150 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=926-LM1117MPX3.3NOPB" 1150 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 1150 -500 50 H I L CNN "Manufacturer_Name"
+F9 "LM1117MPX-3.3/NOPB" 1150 -600 50 H I L CNN "Manufacturer_Part_Number"
+F10 "C23984" 0 0 50 H I C CNN "LCSC"
+DRAW
+P 5 0 1 6 200 100 1100 100 1100 -300 200 -300 200 100 N
+X ADJ/GND 1 0 0 200 R 50 50 0 0 U
+X OUTPUT 2 0 -100 200 R 50 50 0 0 U
+X INPUT 3 0 -200 200 R 50 50 0 0 U
+X VOUT 4 1300 0 200 L 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+# LM1117MPX-5.0_NOPB
+#
+DEF LM1117MPX-5.0_NOPB IC 0 30 Y Y 1 F N
+F0 "IC" 1150 300 50 H V L CNN
+F1 "LM1117MPX-5.0_NOPB" 1150 200 50 H V L CNN
+F2 "SOT230P700X180-4N" 1150 100 50 H I L CNN
+F3 "" 1150 0 50 H I L CNN
+F4 "Space saving 800-mA low-dropout linear regulator with internal current limit" 1150 -100 50 H I L CNN "Description"
+F5 "1.8" 1150 -200 50 H I L CNN "Height"
+F6 "926-LM1117MPX5.0NOPB" 1150 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=926-LM1117MPX5.0NOPB" 1150 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 1150 -500 50 H I L CNN "Manufacturer_Name"
+F9 "LM1117MPX-5.0/NOPB" 1150 -600 50 H I L CNN "Manufacturer_Part_Number"
+F10 "C41202" 0 0 50 H V C CNN "LCSC"
+DRAW
+P 5 0 1 6 200 100 1100 100 1100 -300 200 -300 200 100 N
+X ADJ/GND 1 0 0 200 R 50 50 0 0 U
+X OUTPUT 2 0 -100 200 R 50 50 0 0 U
+X INPUT 3 0 -200 200 R 50 50 0 0 U
+X VOUT 4 1300 0 200 L 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+#End Library

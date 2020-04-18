@@ -21,6 +21,36 @@ X ~ 2 0 -150 110 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# 100nF_T
+#
+DEF 100nF_T C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "100nF_T" 350 150 50 H V L CNN
+F2 "CAPPM3216X180N" 350 50 50 H I L CNN
+F3 "" 350 -50 50 H I L CNN
+F4 "Tantalum Capacitors - Solid SMD 35volts 0.10uF 10%" 350 -150 50 H I L CNN "Description"
+F5 "1.8" 350 -250 50 H I L CNN "Height"
+F6 "AVX" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "TAJA104K035RNJ" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "581-TAJA104K035" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=581-TAJA104K035" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "8872910" 350 -750 50 H I L CNN "RS Part Number"
+F11 "http://uk.rs-online.com/web/p/products/8872910" 350 -850 50 H I L CNN "RS Price/Stock"
+F12 "70001963" 350 -950 50 H I L CNN "Allied_Number"
+F13 "http://www.alliedelec.com/avx-taja104k035rnj/70001963/" 350 -1050 50 H I L CNN "Allied Price/Stock"
+F14 "C7173" 0 0 50 H I C CNN "LCSC"
+DRAW
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 160 70 160 30 N
+P 2 0 1 6 180 50 140 50 N
+P 2 0 1 6 300 0 400 0 N
+P 5 0 1 6 200 100 200 -100 230 -100 230 100 200 100 N
+P 5 0 1 10 300 100 300 -100 270 -100 270 100 300 100 F
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 500 0 100 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
 # 100p
 #
 DEF 100p C 0 10 N Y 1 F N
@@ -78,6 +108,36 @@ P 2 0 1 20 -80 -30 80 -30 N
 P 2 0 1 20 -80 30 80 30 N
 X ~ 1 0 150 110 D 50 50 1 1 P
 X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uF_T
+#
+DEF 10uF_T C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "10uF_T" 350 150 50 H V L CNN
+F2 "CAPPM3216X180N" 350 50 50 H I L CNN
+F3 "" 350 -50 50 H I L CNN
+F4 "AVX - TAJA106K016RNJ - CAP, TANT, 10UF, 16V, CASE A" 350 -150 50 H I L CNN "Description"
+F5 "1.8" 350 -250 50 H I L CNN "Height"
+F6 "AVX" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "TAJA106K016RNJ" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "581-TAJA106K016R" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=581-TAJA106K016R" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "8872929" 350 -750 50 H I L CNN "RS Part Number"
+F11 "http://uk.rs-online.com/web/p/products/8872929" 350 -850 50 H I L CNN "RS Price/Stock"
+F12 "70001840" 350 -950 50 H I L CNN "Allied_Number"
+F13 "https://www.alliedelec.com/avx-taja106k016rnj/70001840/" 350 -1050 50 H I L CNN "Allied Price/Stock"
+F14 "C7171" 0 0 50 H I C CNN "LCSC"
+DRAW
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 160 70 160 30 N
+P 2 0 1 6 180 50 140 50 N
+P 2 0 1 6 300 0 400 0 N
+P 5 0 1 6 200 100 200 -100 230 -100 230 100 200 100 N
+P 5 0 1 10 300 100 300 -100 270 -100 270 100 300 100 F
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 500 0 100 L 50 50 0 0 P
 ENDDRAW
 ENDDEF
 #

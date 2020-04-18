@@ -54,6 +54,18 @@ K R res resistor
 F ~
 $ENDCMP
 #
+$CMP 300_0805
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 30k_HP
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
 $CMP 4.7k
 D Resistor
 K R res resistor

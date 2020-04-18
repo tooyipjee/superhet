@@ -1,5 +1,25 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 43045-0600
+D 6 way dual row r/a header,5A 250Vac 3mm Molex MICRO-FIT 3.0 Series, Series Number 43045, 3mm Pitch 6 Way 2 Row Right Angle PCB Header, Solder Termination, 5A
+F https://componentsearchengine.com/Datasheets/1/43045-0600.pdf
+$ENDCMP
+#
+$CMP 43650-0200
+D Header 3.00mm, WTB single row, RA, 2w Molex MICRO-FIT 3.0 Series, Series Number 43650, 3mm Pitch 2 Way 1 Row Shrouded Right Angle PCB Header, Through Hole
+F https://componentsearchengine.com/Datasheets/1/43650-0200.pdf
+$ENDCMP
+#
+$CMP 43650-0300
+D MICRO-FIT (3.0) SINGLE ROW/RIGHT ANGLE THRU HOLD/PEGS/TRAY
+F https://componentsearchengine.com/Datasheets/1/43650-0300.pdf
+$ENDCMP
+#
+$CMP 43650-0500
+D Molex MICRO-FIT 3.0 Series, Series Number 43650, 3mm Pitch 5 Way 1 Row Right Angle PCB Header, Solder Termination, 5A
+F https://componentsearchengine.com/Datasheets/1/43650-0500.pdf
+$ENDCMP
+#
 $CMP 43650-0825
 D MOLEX - 43650-0825 - CONNECTOR, HEADER, 8POS, 1ROW, 3MM
 F https://www.molex.com/pdm_docs/sd/436500625_sd.pdf
@@ -7,6 +27,36 @@ $ENDCMP
 #
 $CMP ADS1247IPW
 D 24-Bit, 2kSPS, 4-Ch Delta-Sigma ADC With PGA, Vref and 2x IDACs for Precision Sensor Measurement
+$ENDCMP
+#
+$CMP BSS138LT1G
+D MOSFET N-Channel 50V 0.2A SOT23 ON Semiconductor BSS138LT1G N-channel MOSFET Transistor, 0.2 A, 50 V, 3-Pin SOT-23
+F https://componentsearchengine.com/Datasheets/1/BSS138LT1G.pdf
+$ENDCMP
+#
+$CMP DRV8871DDAR
+D 3.6A Brushed DC Motor Driver with Integrated Current Sensing (PWM Ctrl)
+F http://www.ti.com/lit/gpn/drv8871
+$ENDCMP
+#
+$CMP EG1271
+D E-SWITCH - EG1271 - SWITCH, SLIDE, SPDT, 300mA, 30V, PCB
+F https://componentsearchengine.com/Datasheets/1/EG1271.pdf
+$ENDCMP
+#
+$CMP KLDHCX-0202-AC-1
+D DC Power Connectors POWER JACK 2.0MM DIA CRIMP LEAD HIGH-CURR
+F https://componentsearchengine.com/Datasheets/1/KLDHCX-0202-AC-1.pdf
+$ENDCMP
+#
+$CMP LM1117MPX-3.3_NOPB
+D Space saving 800-mA low-dropout linear regulator with internal current limit
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP LM1117MPX-5.0_NOPB
+D Space saving 800-mA low-dropout linear regulator with internal current limit
+F http://www.ti.com/lit/gpn/lm1117
 $ENDCMP
 #
 $CMP MPMT10019001AT1
@@ -19,9 +69,29 @@ D Single Precision Timer
 F http://www.ti.com/lit/ds/symlink/ne555.pdf
 $ENDCMP
 #
+$CMP TAJA104K035RNJ
+D Tantalum Capacitors - Solid SMD 35volts 0.10uF 10%
+F http://www.farnell.com/datasheets/1680476.pdf
+$ENDCMP
+#
+$CMP TAJA106K016RNJ
+D AVX - TAJA106K016RNJ - CAP, TANT, 10UF, 16V, CASE A
+F http://www.farnell.com/datasheets/1680476.pdf
+$ENDCMP
+#
+$CMP TBL009-254-04GY-2GY
+D Fixed Terminal Blocks Terminal block, screwless, 2.54, Horizontal, 4, Gray w Gray Button
+F https://componentsearchengine.com/Datasheets/1/TBL009-254-04GY-2GY.pdf
+$ENDCMP
+#
 $CMP TPS7A4901DGNR
 D Vin 3V to 36V, 150mA, Ultra-Low-Noise, High-PSRR Low-Dropout (LDO) Linear Regulator
 F http://www.ti.com/lit/ds/sbvs121b/sbvs121b.pdf
+$ENDCMP
+#
+$CMP TS-1187A-C-E-B
+D SPST 50mA @ 12VDC 5.10mm x 5.10mm SMD Tactile Switches RoHS
+F https://datasheet.lcsc.com/szlcsc/XKB-TS-1187A-C-E-A_C318887.pdf
 $ENDCMP
 #
 $CMP TS5A22362DGSR
@@ -29,28 +99,10 @@ D Texas Instruments TS5A22362DGSR, Analogue Switch Dual SPDT, 2.3  5.5 V, 10-Pin
 F http://componentsearchengine.com/Datasheets/3/TS5A22362DGSR.pdf
 $ENDCMP
 #
-$CMP 43650-0200
-D Header 3.00mm, WTB single row, RA, 2w Molex MICRO-FIT 3.0 Series, Series Number 43650, 3mm Pitch 2 Way 1 Row Shrouded Right Angle PCB Header, Through Hole
+$CMP 3362H-1-103LF
+D BOURNS - 3362H-1-103LF - TRIMMER, POT, 10KOHM, 10%, 1TURN, TH
 K
-F https://componentsearchengine.com/Datasheets/1/43650-0200.pdf
-$ENDCMP
-#
-$CMP 43650-0500
-D Molex MICRO-FIT 3.0 Series, Series Number 43650, 3mm Pitch 5 Way 1 Row Right Angle PCB Header, Solder Termination, 5A
-K
-F https://componentsearchengine.com/Datasheets/1/43650-0500.pdf
-$ENDCMP
-#
-$CMP 43650-0300
-D MICRO-FIT (3.0) SINGLE ROW/RIGHT ANGLE THRU HOLD/PEGS/TRAY
-K
-F https://componentsearchengine.com/Datasheets/1/43650-0300.pdf
-$ENDCMP
-#
-$CMP 43045-0600
-D 6 way dual row r/a header,5A 250Vac 3mm Molex MICRO-FIT 3.0 Series, Series Number 43045, 3mm Pitch 6 Way 2 Row Right Angle PCB Header, Solder Termination, 5A
-K
-F https://componentsearchengine.com/Datasheets/1/43045-0600.pdf
+F https://componentsearchengine.com/Datasheets/1/3362H-1-103LF.pdf
 $ENDCMP
 #
 #End Doc Library

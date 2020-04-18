@@ -6,6 +6,11 @@ K cap capacitor
 F ~
 $ENDCMP
 #
+$CMP 100nF_T
+D Tantalum Capacitors - Solid SMD 35volts 0.10uF 10%
+F http://www.farnell.com/datasheets/1680476.pdf
+$ENDCMP
+#
 $CMP 100p
 D Unpolarized capacitor
 K cap capacitor
@@ -22,6 +27,11 @@ $CMP 10u
 D Unpolarized capacitor
 K cap capacitor
 F ~
+$ENDCMP
+#
+$CMP 10uF_T
+D AVX - TAJA106K016RNJ - CAP, TANT, 10UF, 16V, CASE A
+F http://www.farnell.com/datasheets/1680476.pdf
 $ENDCMP
 #
 $CMP 1n

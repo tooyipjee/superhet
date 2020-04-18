@@ -1,6 +1,92 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# 43045-0600
+#
+DEF 43045-0600 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "43045-0600" 650 200 50 H V L CNN
+F2 "43045-0600" 650 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/43045-0600.pdf" 650 0 50 H I L CNN
+F4 "6 way dual row r/a header,5A 250Vac 3mm Molex MICRO-FIT 3.0 Series, Series Number 43045, 3mm Pitch 6 Way 2 Row Right Angle PCB Header, Solder Termination, 5A" 650 -100 50 H I L CNN "Description"
+F5 "538-43045-0600" 650 -300 50 H I L CNN "Mouser Part Number"
+F6 "https://www.mouser.com/Search/Refine.aspx?Keyword=538-43045-0600" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F7 "Molex" 650 -500 50 H I L CNN "Manufacturer_Name"
+F8 "43045-0600" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 U
+X 2 2 0 -100 200 R 50 50 0 0 U
+X 3 3 0 -200 200 R 50 50 0 0 U
+X 4 4 800 0 200 L 50 50 0 0 U
+X 5 5 800 -100 200 L 50 50 0 0 U
+X 6 6 800 -200 200 L 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+# 43650-0200
+#
+DEF 43650-0200 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "43650-0200" 650 200 50 H V L CNN
+F2 "43650-0200" 650 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/43650-0200.pdf" 650 0 50 H I L CNN
+F4 "Header 3.00mm, WTB single row, RA, 2w Molex MICRO-FIT 3.0 Series, Series Number 43650, 3mm Pitch 2 Way 1 Row Shrouded Right Angle PCB Header, Through Hole" 650 -100 50 H I L CNN "Description"
+F5 "538-43650-0200" 650 -300 50 H I L CNN "Mouser Part Number"
+F6 "https://www.mouser.com/Search/Refine.aspx?Keyword=538-43650-0200" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F7 "Molex" 650 -500 50 H I L CNN "Manufacturer_Name"
+F8 "43650-0200" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -100 200 -100 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 U
+X 2 2 800 0 200 L 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+# 43650-0300
+#
+DEF 43650-0300 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "43650-0300" 650 200 50 H V L CNN
+F2 "436500300" 650 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/43650-0300.pdf" 650 0 50 H I L CNN
+F4 "MICRO-FIT (3.0) SINGLE ROW/RIGHT ANGLE THRU HOLD/PEGS/TRAY" 650 -100 50 H I L CNN "Description"
+F5 "5" 650 -200 50 H I L CNN "Height"
+F6 "538-43650-0300" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=538-43650-0300" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Molex" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "43650-0300" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 U
+X 2 2 0 -100 200 R 50 50 0 0 U
+X 3 3 800 0 200 L 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+# 43650-0500
+#
+DEF 43650-0500 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "43650-0500" 650 200 50 H V L CNN
+F2 "436500500" 650 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/43650-0500.pdf" 650 0 50 H I L CNN
+F4 "Molex MICRO-FIT 3.0 Series, Series Number 43650, 3mm Pitch 5 Way 1 Row Right Angle PCB Header, Solder Termination, 5A" 650 -100 50 H I L CNN "Description"
+F5 "5.82" 650 -200 50 H I L CNN "Height"
+F6 "538-43650-0500" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=538-43650-0500" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Molex" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "43650-0500" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 U
+X 2 2 0 -100 200 R 50 50 0 0 U
+X 3 3 0 -200 200 R 50 50 0 0 U
+X 4 4 800 0 200 L 50 50 0 0 U
+X 5 5 800 -100 200 L 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
 # 43650-0825
 #
 DEF 43650-0825 J 0 30 Y Y 1 F N
@@ -85,6 +171,153 @@ X AIN0/IEXC 9 0 -800 200 R 50 50 0 0 I
 ENDDRAW
 ENDDEF
 #
+# BSS138LT1G
+#
+DEF BSS138LT1G Q 0 30 Y Y 1 F N
+F0 "Q" 450 150 50 H V L CNN
+F1 "BSS138LT1G" 450 50 50 H V L CNN
+F2 "SOT96P237X111-3N" 450 -50 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/BSS138LT1G.pdf" 450 -150 50 H I L CNN
+F4 "MOSFET N-Channel 50V 0.2A SOT23 ON Semiconductor BSS138LT1G N-channel MOSFET Transistor, 0.2 A, 50 V, 3-Pin SOT-23" 450 -250 50 H I L CNN "Description"
+F5 "1.11" 450 -350 50 H I L CNN "Height"
+F6 "863-BSS138LT1G" 450 -450 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=863-BSS138LT1G" 450 -550 50 H I L CNN "Mouser Price/Stock"
+F8 "ON Semiconductor" 450 -650 50 H I L CNN "Manufacturer_Name"
+F9 "BSS138LT1G" 450 -750 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+C 250 100 150 0 1 10 N
+P 2 0 1 6 230 -20 230 20 N
+P 2 0 1 6 230 0 300 0 N
+P 2 0 1 6 230 80 230 120 N
+P 2 0 1 6 230 220 230 180 N
+P 2 0 1 6 300 100 230 100 N
+P 2 0 1 6 300 100 300 -100 N
+P 2 0 1 6 300 200 230 200 N
+P 2 0 1 6 300 200 300 300 N
+P 3 0 1 6 100 0 200 0 200 200 N
+P 4 0 1 10 230 100 270 120 270 80 230 100 F
+X ~ 1 0 0 100 R 50 50 0 0 U
+X ~ 2 300 -200 100 U 50 50 0 0 U
+X ~ 3 300 400 100 D 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+# DRV8871DDAR
+#
+DEF DRV8871DDAR IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "DRV8871DDAR" 1050 200 50 H V L CNN
+F2 "SOIC127P600X170-9N" 1050 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/drv8871" 1050 0 50 H I L CNN
+F4 "3.6A Brushed DC Motor Driver with Integrated Current Sensing (PWM Ctrl)" 1050 -100 50 H I L CNN "Description"
+F5 "1.7" 1050 -200 50 H I L CNN "Height"
+F6 "595-DRV8871DDAR" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=595-DRV8871DDAR" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "DRV8871DDAR" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 1000 100 1000 -600 200 -600 200 100 N
+X GND 1 0 0 200 R 50 50 0 0 U
+X IN2 2 0 -100 200 R 50 50 0 0 U
+X IN1 3 0 -200 200 R 50 50 0 0 U
+X ILIM 4 0 -300 200 R 50 50 0 0 U
+X VM 5 1200 -300 200 L 50 50 0 0 U
+X OUT1 6 1200 -200 200 L 50 50 0 0 U
+X PGND 7 1200 -100 200 L 50 50 0 0 U
+X OUT2 8 1200 0 200 L 50 50 0 0 U
+X EP 9 600 -800 200 U 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+# EG1271
+#
+DEF EG1271 S 0 30 Y Y 1 F N
+F0 "S" 1050 300 50 H V L CNN
+F1 "EG1271" 1050 200 50 H V L CNN
+F2 "EG1271" 1050 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/EG1271.pdf" 1050 0 50 H I L CNN
+F4 "E-SWITCH - EG1271 - SWITCH, SLIDE, SPDT, 300mA, 30V, PCB" 1050 -100 50 H I L CNN "Description"
+F5 "5.5" 1050 -200 50 H I L CNN "Height"
+F6 "612-EG1271" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=612-EG1271" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "E-Switch" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "EG1271" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 1000 100 1000 -400 200 -400 200 100 N
+X NC_1 1 1200 0 200 L 50 50 0 0 U
+X COM_1 2 0 0 200 R 50 50 0 0 U
+X NO_1 3 1200 -200 200 L 50 50 0 0 U
+X NC_2 4 1200 -100 200 L 50 50 0 0 U
+X COM_2 5 0 -100 200 R 50 50 0 0 U
+X NO_2 6 1200 -300 200 L 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+# KLDHCX-0202-AC-1
+#
+DEF KLDHCX-0202-AC-1 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "KLDHCX-0202-AC-1" 650 200 50 H V L CNN
+F2 "KLDHCX0202AC1" 650 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/KLDHCX-0202-AC-1.pdf" 650 0 50 H I L CNN
+F4 "DC Power Connectors POWER JACK 2.0MM DIA CRIMP LEAD HIGH-CURR" 650 -100 50 H I L CNN "Description"
+F5 "10.8" 650 -200 50 H I L CNN "Height"
+F6 "806-KLDHCX-0202-AC-1" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=806-KLDHCX-0202-AC-1" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Kycon" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "KLDHCX-0202-AC-1" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+X 1 1 800 -100 200 L 50 50 0 0 U
+X 2 2 800 0 200 L 50 50 0 0 U
+X 3 3 0 0 200 R 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+# LM1117MPX-3.3_NOPB
+#
+DEF LM1117MPX-3.3_NOPB IC 0 30 Y Y 1 F N
+F0 "IC" 1150 300 50 H V L CNN
+F1 "LM1117MPX-3.3_NOPB" 1150 200 50 H V L CNN
+F2 "SOT230P700X180-4N" 1150 100 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/lm1117.pdf" 1150 0 50 H I L CNN
+F4 "Space saving 800-mA low-dropout linear regulator with internal current limit" 1150 -100 50 H I L CNN "Description"
+F5 "1.8" 1150 -200 50 H I L CNN "Height"
+F6 "926-LM1117MPX3.3NOPB" 1150 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=926-LM1117MPX3.3NOPB" 1150 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 1150 -500 50 H I L CNN "Manufacturer_Name"
+F9 "LM1117MPX-3.3/NOPB" 1150 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 1100 100 1100 -300 200 -300 200 100 N
+X ADJ/GND 1 0 0 200 R 50 50 0 0 U
+X OUTPUT 2 0 -100 200 R 50 50 0 0 U
+X INPUT 3 0 -200 200 R 50 50 0 0 U
+X VOUT 4 1300 0 200 L 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+# LM1117MPX-5.0_NOPB
+#
+DEF LM1117MPX-5.0_NOPB IC 0 30 Y Y 1 F N
+F0 "IC" 1150 300 50 H V L CNN
+F1 "LM1117MPX-5.0_NOPB" 1150 200 50 H V L CNN
+F2 "SOT230P700X180-4N" 1150 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/lm1117" 1150 0 50 H I L CNN
+F4 "Space saving 800-mA low-dropout linear regulator with internal current limit" 1150 -100 50 H I L CNN "Description"
+F5 "1.8" 1150 -200 50 H I L CNN "Height"
+F6 "926-LM1117MPX5.0NOPB" 1150 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=926-LM1117MPX5.0NOPB" 1150 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 1150 -500 50 H I L CNN "Manufacturer_Name"
+F9 "LM1117MPX-5.0/NOPB" 1150 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 1100 100 1100 -300 200 -300 200 100 N
+X ADJ/GND 1 0 0 200 R 50 50 0 0 U
+X OUTPUT 2 0 -100 200 R 50 50 0 0 U
+X INPUT 3 0 -200 200 R 50 50 0 0 U
+X VOUT 4 1300 0 200 L 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
 # MPMT10019001AT1
 #
 DEF MPMT10019001AT1 RN 0 30 Y Y 1 F N
@@ -134,6 +367,95 @@ X VCC 8 700 600 200 D 50 50 0 0 B
 ENDDRAW
 ENDDEF
 #
+# TAJA104K035RNJ
+#
+DEF TAJA104K035RNJ C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "TAJA104K035RNJ" 350 150 50 H V L CNN
+F2 "CAPPM3216X180N" 350 50 50 H I L CNN
+F3 "http://www.farnell.com/datasheets/1680476.pdf" 350 -50 50 H I L CNN
+F4 "Tantalum Capacitors - Solid SMD 35volts 0.10uF 10%" 350 -150 50 H I L CNN "Description"
+F5 "1.8" 350 -250 50 H I L CNN "Height"
+F6 "AVX" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "TAJA104K035RNJ" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "581-TAJA104K035" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=581-TAJA104K035" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "8872910" 350 -750 50 H I L CNN "RS Part Number"
+F11 "http://uk.rs-online.com/web/p/products/8872910" 350 -850 50 H I L CNN "RS Price/Stock"
+F12 "70001963" 350 -950 50 H I L CNN "Allied_Number"
+F13 "http://www.alliedelec.com/avx-taja104k035rnj/70001963/" 350 -1050 50 H I L CNN "Allied Price/Stock"
+DRAW
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 160 70 160 30 N
+P 2 0 1 6 180 50 140 50 N
+P 2 0 1 6 300 0 400 0 N
+P 5 0 1 6 200 100 200 -100 230 -100 230 100 200 100 N
+P 5 0 1 10 300 100 300 -100 270 -100 270 100 300 100 F
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 500 0 100 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# TAJA106K016RNJ
+#
+DEF TAJA106K016RNJ C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "TAJA106K016RNJ" 350 150 50 H V L CNN
+F2 "CAPPM3216X180N" 350 50 50 H I L CNN
+F3 "http://www.farnell.com/datasheets/1680476.pdf" 350 -50 50 H I L CNN
+F4 "AVX - TAJA106K016RNJ - CAP, TANT, 10UF, 16V, CASE A" 350 -150 50 H I L CNN "Description"
+F5 "1.8" 350 -250 50 H I L CNN "Height"
+F6 "AVX" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "TAJA106K016RNJ" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "581-TAJA106K016R" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=581-TAJA106K016R" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "8872929" 350 -750 50 H I L CNN "RS Part Number"
+F11 "http://uk.rs-online.com/web/p/products/8872929" 350 -850 50 H I L CNN "RS Price/Stock"
+F12 "70001840" 350 -950 50 H I L CNN "Allied_Number"
+F13 "https://www.alliedelec.com/avx-taja106k016rnj/70001840/" 350 -1050 50 H I L CNN "Allied Price/Stock"
+DRAW
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 160 70 160 30 N
+P 2 0 1 6 180 50 140 50 N
+P 2 0 1 6 300 0 400 0 N
+P 5 0 1 6 200 100 200 -100 230 -100 230 100 200 100 N
+P 5 0 1 10 300 100 300 -100 270 -100 270 100 300 100 F
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 500 0 100 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# TBL009-254-04GY-2GY
+#
+DEF TBL009-254-04GY-2GY J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "TBL009-254-04GY-2GY" 650 200 50 H V L CNN
+F2 "TBL00925404GY2GY" 650 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/TBL009-254-04GY-2GY.pdf" 700 0 50 H I L CNN
+F4 "Fixed Terminal Blocks Terminal block, screwless, 2.54, Horizontal, 4, Gray w Gray Button" 750 -100 50 H I L CNN "Description"
+F5 "10" 650 -200 50 H I L CNN "Height"
+F6 "490-TBL00925404GY2GY" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=490-TBL00925404GY2GY" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "CUI Devices" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "TBL009-254-04GY-2GY" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+A 200 -650 50 -899 899 0 1 0 N 200 -700 200 -600
+A 200 -450 50 -899 899 0 1 0 N 200 -500 200 -400
+A 200 -250 50 -899 899 0 1 0 N 200 -300 200 -200
+A 200 -100 0 0 0 0 1 0 N 200 -100 200 -100
+A 200 -50 50 -899 899 0 1 0 N 200 -100 200 0
+P 5 0 1 6 200 100 600 100 600 -800 200 -800 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 U
+X 2 2 0 -100 200 R 50 50 0 0 U
+X 3 3 0 -200 200 R 50 50 0 0 U
+X 4 4 0 -300 200 R 50 50 0 0 U
+X 5 5 0 -400 200 R 50 50 0 0 U
+X 6 6 0 -500 200 R 50 50 0 0 U
+X 7 7 0 -600 200 R 50 50 0 0 U
+X 8 8 0 -700 200 R 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
 # TPS7A4901DGNR
 #
 DEF TPS7A4901DGNR IC 0 30 Y Y 1 F N
@@ -158,6 +480,26 @@ X NR/SS 6 1200 -200 200 L 50 50 0 0 U
 X DNC 7 1200 -100 200 L 50 50 0 0 U
 X IN 8 1200 0 200 L 50 50 0 0 I
 X EP 9 600 -800 200 U 50 50 0 0 W
+ENDDRAW
+ENDDEF
+#
+# TS-1187A-C-E-B
+#
+DEF TS-1187A-C-E-B S 0 30 Y Y 1 F N
+F0 "S" 1050 300 50 H V L CNN
+F1 "TS-1187A-C-E-B" 1050 200 50 H V L CNN
+F2 "TS1187ACEB" 1050 100 50 H I L CNN
+F3 "https://datasheet.lcsc.com/szlcsc/XKB-TS-1187A-C-E-A_C318887.pdf" 1050 0 50 H I L CNN
+F4 "SPST 50mA @ 12VDC 5.10mm x 5.10mm SMD Tactile Switches RoHS" 1050 -100 50 H I L CNN "Description"
+F5 "1.65" 1050 -200 50 H I L CNN "Height"
+F6 "XKB Enterprise" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F7 "TS-1187A-C-E-B" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 1000 100 1000 -200 200 -200 200 100 N
+X COM_1 A1 0 0 200 R 50 50 0 0 U
+X COM_2 B1 1200 0 200 L 50 50 0 0 U
+X NO_1 C1 1200 -100 200 L 50 50 0 0 U
+X NO_2 D1 0 -100 200 R 50 50 0 0 U
 ENDDRAW
 ENDDEF
 #
@@ -189,91 +531,24 @@ X COM2 9 1100 -100 200 L 50 50 0 0 U
 ENDDRAW
 ENDDEF
 #
-#SamacSys ECAD Model 43650-0200
-#/268921/242034/2.46/2/4/Connector
-DEF 43650-0200 J 0 30 Y Y 1 F N
-F0 "J" 650 300 50 H V L CNN
-F1 "43650-0200" 650 200 50 H V L CNN
-F2 "43650-0200" 650 100 50 H I L CNN
-F3 "https://componentsearchengine.com/Datasheets/1/43650-0200.pdf" 650 0 50 H I L CNN
-F4 "Header 3.00mm, WTB single row, RA, 2w Molex MICRO-FIT 3.0 Series, Series Number 43650, 3mm Pitch 2 Way 1 Row Shrouded Right Angle PCB Header, Through Hole" 650 -100 50 H I L CNN "Description"
-F5 "" 650 -200 50 H I L CNN "Height"
-F6 "538-43650-0200" 650 -300 50 H I L CNN "Mouser Part Number"
-F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=538-43650-0200" 650 -400 50 H I L CNN "Mouser Price/Stock"
-F8 "Molex" 650 -500 50 H I L CNN "Manufacturer_Name"
-F9 "43650-0200" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+#SamacSys ECAD Model 3362H-1-103LF
+#/651164/242034/2.46/3/4/Resistor
+DEF 3362H-1-103LF R 0 30 Y Y 1 F N
+F0 "R" 650 300 50 H V L CNN
+F1 "3362H-1-103LF" 650 200 50 H V L CNN
+F2 "3362H1103LF" 650 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/3362H-1-103LF.pdf" 650 0 50 H I L CNN
+F4 "BOURNS - 3362H-1-103LF - TRIMMER, POT, 10KOHM, 10%, 1TURN, TH" 650 -100 50 H I L CNN "Description"
+F5 "4" 650 -200 50 H I L CNN "Height"
+F6 "652-3362H-1-103LF" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=652-3362H-1-103LF" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Bourns" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "3362H-1-103LF" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
 DRAW
-X 1 1 0 0 200 R 50 50 0 0 U
-X 2 2 800 0 200 L 50 50 0 0 U
-P 5 0 1 6 200 100 600 100 600 -100 200 -100 200 100 N
-ENDDRAW
-ENDDEF
-#
-#SamacSys ECAD Model 43650-0500
-#/351149/242034/2.46/5/4/Connector
-DEF 43650-0500 J 0 30 Y Y 1 F N
-F0 "J" 650 300 50 H V L CNN
-F1 "43650-0500" 650 200 50 H V L CNN
-F2 "436500500" 650 100 50 H I L CNN
-F3 "https://componentsearchengine.com/Datasheets/1/43650-0500.pdf" 650 0 50 H I L CNN
-F4 "Molex MICRO-FIT 3.0 Series, Series Number 43650, 3mm Pitch 5 Way 1 Row Right Angle PCB Header, Solder Termination, 5A" 650 -100 50 H I L CNN "Description"
-F5 "5.82" 650 -200 50 H I L CNN "Height"
-F6 "538-43650-0500" 650 -300 50 H I L CNN "Mouser Part Number"
-F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=538-43650-0500" 650 -400 50 H I L CNN "Mouser Price/Stock"
-F8 "Molex" 650 -500 50 H I L CNN "Manufacturer_Name"
-F9 "43650-0500" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
-DRAW
-X 1 1 0 0 200 R 50 50 0 0 U
-X 2 2 0 -100 200 R 50 50 0 0 U
-X 3 3 0 -200 200 R 50 50 0 0 U
-X 4 4 800 0 200 L 50 50 0 0 U
-X 5 5 800 -100 200 L 50 50 0 0 U
-P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
-ENDDRAW
-ENDDEF
-#
-#SamacSys ECAD Model 43650-0300
-#/240313/242034/2.46/3/4/Connector
-DEF 43650-0300 J 0 30 Y Y 1 F N
-F0 "J" 650 300 50 H V L CNN
-F1 "43650-0300" 650 200 50 H V L CNN
-F2 "436500300" 650 100 50 H I L CNN
-F3 "https://componentsearchengine.com/Datasheets/1/43650-0300.pdf" 650 0 50 H I L CNN
-F4 "MICRO-FIT (3.0) SINGLE ROW/RIGHT ANGLE THRU HOLD/PEGS/TRAY" 650 -100 50 H I L CNN "Description"
-F5 "5" 650 -200 50 H I L CNN "Height"
-F6 "538-43650-0300" 650 -300 50 H I L CNN "Mouser Part Number"
-F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=538-43650-0300" 650 -400 50 H I L CNN "Mouser Price/Stock"
-F8 "Molex" 650 -500 50 H I L CNN "Manufacturer_Name"
-F9 "43650-0300" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
-DRAW
-X 1 1 0 0 200 R 50 50 0 0 U
-X 2 2 0 -100 200 R 50 50 0 0 U
-X 3 3 800 0 200 L 50 50 0 0 U
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 800 0 200 L 50 50 0 0 P
+X 3 3 0 -100 200 R 50 50 0 0 P
 P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
-ENDDRAW
-ENDDEF
-#
-#SamacSys ECAD Model 43045-0600
-#/252387/242034/2.46/6/4/Connector
-DEF 43045-0600 J 0 30 Y Y 1 F N
-F0 "J" 650 300 50 H V L CNN
-F1 "43045-0600" 650 200 50 H V L CNN
-F2 "43045-0600" 650 100 50 H I L CNN
-F3 "https://componentsearchengine.com/Datasheets/1/43045-0600.pdf" 650 0 50 H I L CNN
-F4 "6 way dual row r/a header,5A 250Vac 3mm Molex MICRO-FIT 3.0 Series, Series Number 43045, 3mm Pitch 6 Way 2 Row Right Angle PCB Header, Solder Termination, 5A" 650 -100 50 H I L CNN "Description"
-F5 "" 650 -200 50 H I L CNN "Height"
-F6 "538-43045-0600" 650 -300 50 H I L CNN "Mouser Part Number"
-F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=538-43045-0600" 650 -400 50 H I L CNN "Mouser Price/Stock"
-F8 "Molex" 650 -500 50 H I L CNN "Manufacturer_Name"
-F9 "43045-0600" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
-DRAW
-X 1 1 0 0 200 R 50 50 0 0 U
-X 2 2 0 -100 200 R 50 50 0 0 U
-X 3 3 0 -200 200 R 50 50 0 0 U
-X 4 4 800 0 200 L 50 50 0 0 U
-X 5 5 800 -100 200 L 50 50 0 0 U
-X 6 6 800 -200 200 L 50 50 0 0 U
-P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
 ENDDRAW
 ENDDEF
 #
