@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SHT20
+D Sensirion SHT20, Temperature & Humidity Sensor -40  +125 C +/-3 (Humidity) %RH, +/-3 (Temperature) C
+F https://componentsearchengine.com/Datasheets/1/SHT20.pdf
+$ENDCMP
+#
+$CMP VCNL4040M3OE-H3
+D VISHAY - VCNL4040M3OE-H3 - OPTICAL SENSOR, 200MM, I2C
+F http://www.vishay.com/docs/84274/vcnl4040.pdf
+$ENDCMP
+#
+$CMP bmp280
+D Digital Pressure Sensor
+F https://componentsearchengine.com/Datasheets/1/BMP280.pdf
+$ENDCMP
+#
+#End Doc Library

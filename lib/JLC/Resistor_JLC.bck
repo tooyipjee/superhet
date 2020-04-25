@@ -24,12 +24,6 @@ K R res resistor
 F ~
 $ENDCMP
 #
-$CMP 18k_HP
-D Resistor
-K R res resistor
-F ~
-$ENDCMP
-#
 $CMP 1M
 D Resistor
 K R res resistor
@@ -43,6 +37,24 @@ F ~
 $ENDCMP
 #
 $CMP 1k_0805
+D CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/8W 0805 ROHS
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 2.2k
+D 2.2K ±1% 1/16W ±100ppm/°C 0402 Chip Resistor - Surface Mount RoHS
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 2.4k
+D 2.4K ±1% 1/16W ±100ppm/°C 0402 Chip Resistor - Surface Mount RoHS
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 22
 D Resistor
 K R res resistor
 F ~
@@ -54,13 +66,31 @@ K R res resistor
 F ~
 $ENDCMP
 #
+$CMP 220k
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
 $CMP 22k
 D Resistor
 K R res resistor
 F ~
 $ENDCMP
 #
+$CMP 300
+D 300 ±1% 1/16W ±100ppm/°C 0402 Chip Resistor - Surface Mount RoHS
+K R res resistor
+F ~
+$ENDCMP
+#
 $CMP 300_0805
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 30k_HP
 D Resistor
 K R res resistor
 F ~
@@ -74,6 +104,18 @@ $ENDCMP
 #
 $CMP 4.7k_0805
 D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 56
+D 56 ±1% 1/8W ±200ppm/°C 0805 Chip Resistor - Surface Mount RoHS
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 620_0603
+D 620 ±1% 1/10W ±100ppm/°C 0603 Chip Resistor - Surface Mount RoHS
 K R res resistor
 F ~
 $ENDCMP
