@@ -1,0 +1,23 @@
+Circuit: * C:\Users\tooyi\Documents\GitHub\superhet\subcircuits\lo\colpitts.asc
+
+WARNING: Node N003 is floating.
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat May  2 19:35:00 2020
+Total elapsed time: 19.561 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1799185
+traniter = 1799180
+tranpoints = 555307
+accept = 383438
+rejected = 171869
+matrix size = 8
+fillins = 2
+solver = Normal
+Matrix Compiler1: 676 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: 710 bytes object code size  0.1/0.1/[0.1]
+
