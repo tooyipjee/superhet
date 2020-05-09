@@ -4,20 +4,20 @@ WARNING: Node N003 is floating.
 
 Direct Newton iteration for .op point succeeded.
 
-Date: Sat May  9 20:54:57 2020
-Total elapsed time: 0.904 seconds.
+Date: Sat May  9 20:57:03 2020
+Total elapsed time: 0.844 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 155956
-traniter = 155950
-tranpoints = 49700
-accept = 35201
-rejected = 14499
+totiter = 174022
+traniter = 174016
+tranpoints = 56813
+accept = 39248
+rejected = 17565
 matrix size = 8
 fillins = 2
 solver = Normal
 Matrix Compiler1: 676 bytes object code size  0.2/0.1/[0.1]
-Matrix Compiler2: 710 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.1/0.1
 
